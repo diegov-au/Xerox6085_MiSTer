@@ -186,11 +186,6 @@ go together.
 | **Floppy** | `.imd` | ImageDisk - sectors. **Read-only** |
 | **Floppy** | `.dmk` | Raw tracks with ID tables and CRCs. **Read-only** |
 
-A Draco (Dwarf emulator) `.zdisk` becomes a `.vhd` with
-`python3 tools/zdisk.py unpack vp2.0.5.zdisk vp2.0.5.vhd`, and a `.dmk` floppy
-becomes an `.imd` with `python3 tools/dmk2imd.py IN.dmk OUT.imd` (sector for
-sector; it refuses a disk with a bad CRC).
-
 ### Blank disk templates
 
 Two formatted, empty rigid disks, the way Xerox's formatter leaves a drive -
