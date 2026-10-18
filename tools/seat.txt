@@ -1,0 +1,33 @@
+# written by tools/ucstate.py - see ucseat.booted()
+pc 0
+phase 0
+Q 5
+stackP 0
+MAR 0
+MD 0
+pc16 0
+mint 0
+intstat 0
+trapcode 1
+click_mar 0
+io_ref 0
+pending_or 0
+pend_ibdisp 0
+pend_always 0
+ib_taken_v 0
+ib_taken 0
+prev_page_cross 0
+prev_y 0
+ibPtr 0
+ibFront 0
+IB0 0
+IB1 0
+trap_cd 0
+cycles 0
+last_op 0
+ibdisps 0
+R 0 202 1FF 0 0 1 0 100 2000 0 0 0 0 0 0 0
+RH 0 2 0 0 0 0 41 0 5 0 0 0 0 0 0 0
+U 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 E000 0 3FFF 1FF8 0 1 0 202 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 7FF 0 0 0 0 0 0 1FFF 0 0 0 0 0 0 6400 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 8000 1FF8 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5 0 300 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+links 0 0 0 0 0 0 0 0
+cs_n EFC
